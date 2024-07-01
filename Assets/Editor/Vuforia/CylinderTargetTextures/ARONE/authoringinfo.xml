@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VuforiaUnityInfo version="7.0">
+    <TargetSet version="5.0" toolVersion="2.8.1">
+        <CylinderTarget name="ring2" version="3.0" targetId="c78b088ee31e41d6882cd1d4b58003ae" sideLength="2.000000" topDiameter="2.500000" bottomDiameter="2.500000" sideImage="ring2.Body_scaled.jpg"/>
+        <CylinderTarget name="arring" version="3.0" targetId="b27b247069774a909a58798051b238e0" sideLength="2.000000" topDiameter="2.500000" bottomDiameter="2.500000" sideImage="arring.Body_scaled.jpg"/>
+    </TargetSet>
+</VuforiaUnityInfo>

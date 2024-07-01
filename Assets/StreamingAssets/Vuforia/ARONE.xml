@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="ringAR" size="2.000000 1.743750" />
+    <ImageTarget name="newring" size="6.000000 3.952075" />
+    <ImageTarget name="ringplane" size="2.000000 1.379364" />
+    <ImageTarget name="ring1" size="9.000000 1.996875" />
+    <ImageTarget name="VirtualButtons" size="5.000000 5.469108" />
+    <ImageTarget name="Ship" size="5.000000 6.667557" />
+    <ImageTarget name="Airplane" size="5.000000 6.559257" />
+    <ImageTarget name="House" size="5.000000 6.360445" />
+    <ImageTarget name="Car" size="5.000000 6.228166" />
+    <ImageTarget name="BookAR_frontpage" size="5.000000 5.984848" />
+    <ImageTarget name="Sun" size="5.000000 6.227819" />
+    <ImageTarget name="ARONE_image" size="5.000000 3.345588" />
+    <CylinderTarget name="ring2" sideLength="2.000000"/>
+    <CylinderTarget name="arring" sideLength="2.000000"/>
+  </Tracking>
+</QCARConfig>
